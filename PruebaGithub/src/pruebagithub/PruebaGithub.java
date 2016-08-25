@@ -27,6 +27,8 @@ public class PruebaGithub {
              int c=a.nextInt();
              int d=b+c;
              System.out.println("suma ="+" "+d);
+             int e=b-c;
+             System.out.println("resta ="+" "+e);
     }
     
 }
