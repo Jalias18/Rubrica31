@@ -25,7 +25,8 @@ public class PruebaGithub {
              int b=a.nextInt();
              System.out.println("ingrese el segundo valor");
              int c=a.nextInt();
-                    
+             int d=b+c;
+             System.out.println("suma ="+" "+d);
     }
     
 }
