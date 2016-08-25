@@ -5,6 +5,8 @@
  */
 package pruebagithub;
 
+import java.util.Scanner;
+
 /**
  *
  * @author elsae
@@ -16,7 +18,14 @@ public class PruebaGithub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+       
             System.out.println("github");
+             Scanner a=new Scanner(System.in);
+             System.out.println("Ingrese un valor");
+             int b=a.nextInt();
+             System.out.println("ingrese el segundo valor");
+             int c=a.nextInt();
+                    
     }
     
 }
