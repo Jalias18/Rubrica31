@@ -33,7 +33,7 @@ public class PruebaGithub {
              System.out.println("resta ="+" "+f);
               int g=b*c;
              System.out.println("resta ="+" "+g);
-             fghghfghfghfg
+             
     }
     
 }
